@@ -4461,7 +4461,6 @@ func getListStreamRequestSchema() map[string]*schema.Schema {
 						Description: "Widget column field.",
 						Type:        schema.TypeString,
 						Optional:    false,
-						},
 					},
 				},
 			},
